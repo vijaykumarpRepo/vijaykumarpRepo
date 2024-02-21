@@ -2,7 +2,8 @@
 - 👀 I’m interested in FullStackDevelopment
 - 🌱 I’m currently working as Software Engineering
 - 💞️ I’m looking to collaborate on FullStack Application development
-- 📫 How to reach me vijaykumarptcte
+- 📫 How to reach me vijaykumarptce@gmail.com
+  
 
 
 <!---
